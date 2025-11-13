@@ -12,9 +12,10 @@
 
 ## Group
 **Group Name:** IGGLYBUFF
+![Pokemon_Image](DataScienceproject/pokemon_image.png)
 
 **Members:**
-- Sanika Kapoor
-- Vaishali Nainwal
-- Haritej Karimisetti
-- Yash Rajabhau Ingle
+- Sanika Kapoor [wrkd0539]
+- Vaishali Nainwal [shtd0023]
+- Haritej Karimisetti [tctn0725]
+- Yash Rajabhau Ingle [rzsg0141]
