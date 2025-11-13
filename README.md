@@ -12,7 +12,7 @@
 
 ## Group
 **Group Name:** IGGLYBUFF
-![Pokemon_Image](DataScienceproject/pokemon_image.png)
+![Pokemon_Image](pokemon_image.png)
 
 **Members:**
 - Sanika Kapoor [wrkd0539]
